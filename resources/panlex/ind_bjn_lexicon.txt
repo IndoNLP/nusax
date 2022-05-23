@@ -1,0 +1,599 @@
+bulu	bulu
+telur	hintalu
+telor	hintalu
+memukul	tumbuk
+menumbuk	tumbuk
+membuka	buka
+membeli	tukar
+menggali	tabuk
+burung	burung
+buruŋ	burung
+anjing	hadupan
+anjiŋ	hadupan
+jatuh	gugur
+melempar	tawak
+melémparkan	tawak
+Kristen	Nasrani
+Kristen	Kerestén
+Kristen	Keréstén
+Kekristenan	Nasrani
+Kekristenan	Kerestén
+Kekristenan	Keréstén
+Nasrani	Nasrani
+Nasrani	Kerestén
+Nasrani	Keréstén
+hitam	hirang
+Republik Islam mauritania	Republik Islam Mauritania
+kelapa	nyiur
+datang	datang
+ikut	datang
+serta	datang
+dataŋ	datang
+mendataŋ	datang
+mendataŋi	datang
+mendekati	datang
+jalan	jalan
+berjalan	bajalan
+kaki	batis
+kanan	kanan
+kiri	kiwa
+tangan	tangan
+taŋan	tangan
+berenang	bakunyung
+berenaŋ	bakunyung
+belok	baputar
+bélok	baputar
+asap	palak
+asap	kukus
+bahasa Perancis	bahasa Parancis
+jantung	andui
+seribu	saribu
+setrika	utaw
+pintu	lawang
+pintu	pintu
+kerbau	hadangan
+mata	mata
+kekristenan	Kerestén
+tomat	bulinjan
+tomat	balinjan
+ikan	iwak
+banjir	baah
+mangunyah	mamah
+meŋuñah	mamah
+muntah	muak
+barat	barat
+malam	malam
+timur	timur
+perut	parut
+tulang	tulang
+tulaŋ	tulang
+hati	hati
+kulit	kulit
+punggung	balakang
+belakaŋ	balakang
+air terjun	banyu tajun
+danau	danau
+danau	danaw
+telaga	danau
+telaga	danaw
+Rusia	Rusia
+%kupiN	taliNa
+teliNa	taliNa
+hiduN	hiduN
+gigi	gigi
+lidah	ilat
+selatan	salatan
+Kerajaan Bersatu Britania Raya dan Irlandia Utara	Perserikatan Kerajaan Britania Raya wan Irlandia Utara
+lemak	lamak
+biologi	biologi
+luas	libar
+lebar	libar
+lébar	libar
+sempit	kipit
+panjang	panjang
+panjaŋ	panjang
+pendek	handap
+péndék	handap
+tebal	kandal
+tipis	tipis
+hijau	hijau
+kuning	kuning
+kuniŋ	kuning
+besar	ganal
+kecil	halus
+kumis	sasingut
+gajah	gajah
+bahasa Melayu	bahasa Melayu
+merah	habang
+paha	paha
+lima	lima
+tujuh	tujuh
+enam	anam
+Republik Afrika Tengah	Ripublik Aprika Tangah
+Timur Dekat	Timur Parak
+dzulhijjah	julhajjah
+dzulkaidah	julkaédah
+kutu	kutu
+nyamuk	ñamuk
+ñamuk	ñamuk
+ular	tadung
+ular	ular
+cacing	cacing
+caciŋ	cacing
+ekor	buntut
+ékor	buntut
+tikus	tikus
+daging	daging
+dagiŋ	daging
+sayap	halar
+terbang	tarabang
+terbaŋ	tarabang
+tornado	angin tutus
+jendela	lalungkang
+jendela	lalongkang
+tomat	bulinjan
+tomat	balinjan
+karat	tagar
+Kerajaan Hasyimiyah Yordania	Karajaan Hasyimiyah Yordania
+Ghana	Ghana
+ikan	iwak
+catur	catur
+sepuluh	sapuluh
+ikan	iwak
+daun	daun
+tanah	tanah
+pistol	pistul
+atap	atap
+Kerajaan Bhutan	Karajaan Bhutan
+Inggris	Inggris
+bahasa Inggris	bahasa Inggris
+mesjid	masjid
+mesjid	masigit
+mesjid	musigit
+masjid	masjid
+masjid	masigit
+masjid	musigit
+burung	pelér
+burung	palir
+burung	butuh
+titit	pelér
+titit	palir
+titit	butuh
+penis	pelér
+penis	palir
+penis	butuh
+Republik Guinea Khatulistiwa	Republik Guinea Katulistiwa
+celana pendek	salawar handap
+celana pendek	salawar héndép
+minum	Ninum
+susu	susu
+buah dada	susu
+%payudara	susu
+taNan	taNan
+laki-laki	lakian
+pria	lakian
+Uni Emirat Arab	Syarikat Amiriah Arab
+bukan	kada
+tidak	kada
+lain	nang lain
+panas	panas
+kami	kita
+kita	kita
+nen	kita
+karat	tagar
+Epilepsi	Gila babi
+Singapura	Singapura
+anjing	hadupan
+gajah	gajah
+busuk	buruk
+buah	buah
+buah-buahan	buah
+sebiji buah	buah
+bunga	kambang
+buŋa	kambang
+rumput	kumpai
+hitam	hirang
+aku	aku
+saya	aku
+zon	aku
+Timur Tengah	Timur Tangah
+di bawah	bawah
+[di] dalam	dalam
+di dalam	dalam
+naik	naik
+memanjat	naik
+mendaki	naik
+di	di
+bersembunyi	sambuñɪ
+sembuñi	sambuñɪ
+dekat	parak
+cacing kremi	cacing kermé
+gerhana	garaha
+gerhana	geraha
+cermin	caramin
+sembilan	sambilan
+telur	hintalu
+nenas	kanas
+nanas	kanas
+ananas	kanas
+ateisme	ateisma
+ini	ini
+kapan	bila
+bila	bila
+nama	ngaran
+ayah	bapa
+bapak	bapa
+rumah	rumah
+mengikat	jarat
+meŋikat	jarat
+menjahit	jahit
+berbicara	ujar
+berkata	ujar
+tali	tali
+jarum	jarum
+berburu	garit
+sutra	lalamas
+api	api
+Kristen	Kerestén
+Nasrani	Kerestén
+akar	akar
+urat	akar
+angin	angin
+aŋin	angin
+dingin	dingin
+diŋin	dingin
+wasir	jubur
+meludah	ludah
+meludahi	ludah
+makan	makan
+menangis	tangis
+menaŋis	tangis
+lidah	ilat
+tertawa	tatawa
+ketawa	tatawa
+mulut	muntung
+gigi	gigi
+batu nilam	safir
+batu nilam	nilam
+safir	safir
+safir	nilam
+telur	hintalu
+Eropa	Irupa
+mendeNar	mand~aNar
+lihat	lihat
+melihat	lihat
+mati	mati
+Eropa	Irupa
+di atas	atas
+[di] atas	atas
+itu	itu
+kutu busuk	pampijit
+kutu busuk	tempijit
+bangsat	pampijit
+bangsat	tempijit
+tinggi	pampijit
+tinggi	tempijit
+kepinding	pampijit
+kepinding	tempijit
+cempedak	tiwadak
+anus	dubur
+anus	luang burit
+anus	kalimut
+dubur	dubur
+dubur	luang burit
+dubur	kalimut
+lubang bokong	dubur
+lubang bokong	luang burit
+lubang bokong	kalimut
+zakar	palir
+zakar	peler
+zakar	butuh
+burung	palir
+burung	peler
+burung	butuh
+titit	palir
+titit	peler
+titit	butuh
+penis	palir
+penis	peler
+penis	butuh
+gempa bumi	lindu
+pusar	pusar
+takut	takutan
+leher	gulu
+léhér	gulu
+muharram	muharram
+laut	laut
+garam	uyah
+danau	danau
+hutan	hutan
+rimba	hutan
+batu	batu
+pasir	karangan
+air	banyu
+mengalir	alir
+meŋalir	alir
+langit	langit
+laŋit	langit
+bulan	bulan
+Khartoum	Khartoum
+dua	dua
+satu	asa
+Republik Rakyat Bangladesh	Ripublik Rakyat Bangladesh
+anai-anai	urup
+rayap	urup
+margarin	margarin
+Filipina	Pilipina
+ungka	uwa-uwa
+tahun	tahun
+hari	siang
+malu	malu
+sakit	sakit
+baru	hanyar
+lama	tuha
+tua	tuha
+jahat	buruk
+bagus	baik
+baik	baik
+malam	malam
+benar	banar
+bahu	bahu
+pundak	bahu
+meniup	batiup
+bertiup	batiup
+adik	dangsanak
+kakak	dangsanak
+saudara	dangsanak
+bermimpi	mimpi
+mimpi	mimpi
+duduk	duduk
+menduduk	duduk
+berdiri	badiri
+orang	urang
+oraŋ	urang
+laki-laki	lalakian
+perempuan	bibinian
+anak	anak
+suami	laki
+isteri	bini
+bunda	uma
+ibu	uma
+mati	mati
+membunuh	bunuh
+menggaruk	garu
+meŋgarut	garu
+hidup	hidup
+menikam	suduk
+menusuk	suduk
+menembak	timbak
+menémbak	timbak
+memukul	pukul
+Jepang	Japang
+mengkudu	bingkudu
+Republik Benin	Republik Benin
+kumis	sasingut
+nyamuk	ñamuk
+ekor	ikung
+ekor	buntut
+buntut	ikung
+buntut	buntut
+kesemek	tasmak
+cengkerik	jengkerék
+darah	darah
+hidung	hidung
+hiduŋ	hidung
+mencium	cium
+bernafas	hinak
+bernapas	hinak
+anjing	hadupan
+putih	putih
+campak	karumut
+Afrika	Aprika
+esofagus	rakungan
+tulaN	tulaN
+kulit	kulit
+belulaN	kulit
+bintaN	bintaN
+air	%ba5u
+dataN	dataN
+bahasa Ibrani	bahasa Ibrani
+siku	siku
+kerbau	hadangan
+bahasa portugal	bahasa Paranggi
+bahasa portugis	bahasa Paranggi
+bagaimana	wayahapa
+menghitung	itung
+meŋhituŋ	itung
+semua	samuaan
+dan	dan
+kalau	amun
+kalau	jaka
+air	banyu
+Jawa	Jawa
+cermin	caramin
+kesemek	tasmak
+kilat	kilat
+guntur	guntur
+gemuruh	guntur
+hujan	hujan
+kabut	kabut
+awan	awan
+bintang	bintang
+bintaŋ	bintang
+kamu	ikam
+kamu	bubuhan
+saudara	ikam
+saudara	bubuhan
+anda	ikam
+anda	bubuhan
+baru	ha5ar
+%nama	Naran
+kutu	kutu
+tuma	kutu
+anZiN	hadupan
+anjiN	hadupan
+ikan	iwak
+%insan	uraN
+oraN	uraN
+daun	daun
+duan	daun
+ilmu ekonomi	ikunumi
+tomat	balinjan
+tomat	bulinjan
+dia	inya
+[d]ia	inya
+di mana	di mana
+dimana	di mana
+yad	tangan
+tangan	tangan
+nyamuk	ñamuk
+empat	ampat
+dua	dua
+tiga	talu
+satu	asa
+sawah	pahumaan
+sawah padi	pahumaan
+darah	darah
+Aljazair	Aljajair
+merah	habang
+mérah	habang
+hitam	hirang
+bunda	uma
+ibunda	uma
+ibu	uma
+mata	mata
+kayu	kayu
+memotong	tatak
+memotoŋ	tatak
+menetak	tatak
+telinga	talinga
+kupiŋ	talinga
+teliŋa	talinga
+mengisap	taguk
+meŋisap	taguk
+gigit	igut
+meŋgigit	igut
+minum	nginum
+menguap	kuap
+meŋguap	kuap
+melihat	lihat
+mata	mata
+mendengar	mandangar
+mendeŋar	mandangar
+berbaring	barabah
+berbariŋ	barabah
+tidur	guring
+memegang	pingkut
+memegaŋ	pingkut
+Rusia	Rusia
+membelah	balah
+tajam	landap
+tumpul	bungul
+bekerja	gawi
+menanam	tanam
+memilih	pilih
+tumbuh	tumbuh
+membengkak	bangkak
+membeŋkak	bangkak
+bahasa Jepang	bahasa Japang
+Bahasa Jepang	bahasa Japang
+tumbuh-tumbuhan	tumbuhan
+Republik Botswana	Republik Botswana
+kendhang	babun
+kendhang	gandang
+kendang	babun
+kendang	gandang
+kelabang	halilipan
+lipan	halilipan
+perut	parutlilit
+perut	ucus
+usus	parutlilit
+usus	ucus
+isi perut	parutlilit
+isi perut	ucus
+lambuŋ	parutlilit
+lambuŋ	ucus
+usus besar	parutlilit
+usus besar	ucus
+usus kecil	parutlilit
+usus kecil	ucus
+kotor	rigat
+susu	susu
+dada	susu
+bahu	bahu
+seratus	saratus
+sembilan	sambilan
+delapan	dalapan
+lapan	dalapan
+sepuluh	sapuluh
+empat	ampat
+memasak	bamasak
+asap	palak
+asap	kukus
+tiga	talu
+air	banyu
+kumbang	karariang
+air mancur	banyu mancurat
+enam	anam
+batu	batu
+Zalan	jalan
+Zalan	Talan
+jalaN	jalan
+jalaN	Talan
+bambu	buluh
+bambu	paring
+buluh	buluh
+buluh	paring
+aur	buluh
+aur	paring
+hati	hati
+memeras	parah
+meremas	parah
+Republik Arab Mesir	Republik Arab Mesir
+jendela	lalungkang
+ventilasi	lalungkang
+perempuan	binian
+wanita	binian
+capung	sisiur
+poci	patikuan
+delapan	dalapan
+darah	darah
+air	banyu
+Yerusalem	Baitul Maqdis
+Yerusalem	Yerusalém
+berat	barat
+api	api
+kering	karing
+keriŋ	karing
+basah	basah
+abu	habu
+membakar	banam
+asap	asap
+debu	dabu
+siapa	siapaʔ
+apa	apaʔ
+mereka	bubuhannya
+meréka	bubuhannya
+kalian	ikam
+kamu	ikam
+anda	ikam
+eŋkau	ikam
+kami	kami
+kami	kita
+kita	kami
+kita	kita
+kamu	bubuhan ikam
+anda	bubuhan ikam
+eŋkau	bubuhan ikam
+aku	aku
+aku	ulun
+saya	aku
+saya	ulun
+jauh	juah
+hitam	hirang
+palu	tukul
+memikir	bapikir
+berfikir	bapikir
+tahu	tahu
+kepala	kapala
+rambut	rambut
