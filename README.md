@@ -4,3 +4,6 @@ NusaX is a high-quality multilingual parallel corpus that covers 12 languages, I
 
 ## Research Paper
 We will release the paper soon.
+
+## License
+The dataset is licensed with CC-BY-SA, and the code is licensed with Apache-2.0.
