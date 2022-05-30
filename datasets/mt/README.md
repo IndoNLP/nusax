@@ -1,8 +1,6 @@
 # NusaX-MT
 
-NusaX-MT is a parallel corpus for training and benchmarking machine translation models across 10 Indonesian local languages + Indonesian and English. 
-
-The data presented here is paired with Indonesian, but they are parallel to each other, so they can be used as parallel corpus across all possible language pair combinations.
+NusaX-MT is a parallel corpus for training and benchmarking machine translation models across 10 Indonesian local languages + Indonesian and English. The data is presented in csv format with 12 columns, one column for each language.
 
 ## Baselines
 
