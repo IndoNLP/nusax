@@ -4,9 +4,12 @@ NusaX-Senti is a 3-labels (positive, neutral, negative) sentiment analysis datas
 
 ## Baselines
 
-You can download and use our ready-to-use seniment analysis baselines below:
+You can try our seniment analysis baselines below:
 
-TBA
+| Method | Notebook |
+| --- | --- |
+| Classical Machine Learning (NB, SVM, LR) | <a href="https://colab.research.google.com/github/IndoNLP/nusax/blob/main/sentiment_analysis_nusax_classical.ipynb"><img src="https://colab.research.google.com/assets/colab-badge.svg" height = '20px' ></a> |
+| Fine-tuned Language Model | TBA |
 
 ## Citation
 
