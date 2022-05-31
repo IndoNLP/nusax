@@ -1,0 +1,834 @@
+,indonesian,ngaju
+0,abu,dabu
+1,abu,habu
+2,abu,kawu
+3,adopsi,adopsi
+4,adopsi,angkan
+5,adopsi,angkat
+6,adopsi,maangkat
+7,adopsi,mangkat
+8,aduh,akay
+9,aduh,akuy
+10,aduh,beh
+11,aduh,boh
+12,aduh,kayah
+13,aduh,te iye
+14,aktif,aktif
+15,aktif,dia tau benyem
+16,aktif,gerek
+17,aktif,hagerek
+18,aktif,umba tarus
+19,aku,aku
+20,aku,aku tuh
+21,aku,ku
+22,alam,alam
+23,alam,dunia
+24,alam,sakitar
+25,alasan,alasan
+26,alasan,pamangat pander
+27,aman,aman
+28,aman,jatun bahaya
+29,aman,salamat
+30,amat,bujur
+31,amat,kalalau
+32,amat,lalau
+33,amat,tutu
+34,ambil,duan
+35,ambil,juluk
+36,ambil,manduan
+37,ancam,ancam
+38,ancam,pander ngancam
+39,ancaman,ancaman
+40,ancaman,ngancam pander
+41,aneh,aneh
+42,aneh,beken beken
+43,aneh,je aneh
+44,anehnya,je aneh te
+45,anehnya,je beken te
+46,anggun,anggun
+47,anti,anti
+48,anti,dia
+49,anti,dia belai
+50,anti,puna dia
+51,antisipasi,antisipasi
+52,antisipasi,mencegah ih
+53,api,apui
+54,api,apuy
+55,apresiasi,apresiasi
+56,apresiasi,bajurah
+57,apresiasi,merega
+58,asing,asing
+59,asing,dia biasa
+60,asyik,asyik
+61,asyik,rami
+62,badass,harat
+63,badass,tamam
+64,bagi,bagi
+65,bagi,nenga
+66,bagus,bahalap
+67,bagus,bajenta
+68,bahagia,kahanjak
+69,bahagia,sanang
+70,bahaya,bahaya
+71,bahaya,dia aman
+72,baik,bahalap
+73,baik,bajenta
+74,baik,bejenta
+75,ban,ban
+76,ban,roda
+77,bangga,bangga
+78,bantu,dohop
+79,bantu,duhup
+80,bantu,manduhup
+81,batal,balang
+82,batal,batal
+83,batal,dia jadi
+84,batas,batas
+85,batas,tatas
+86,bebas,bebas
+87,bebas,lapas
+88,beberapa,papire
+89,beberapa,pire-pire
+90,bela,bela
+91,bela,hakabela
+92,belakang,likut
+93,benar,bujur
+94,benar,tutu
+95,bencana,malapetaka
+96,bencana,musibah
+97,benci,bajilek
+98,benci,benci
+99,benci,muar
+100,berani,bahanyi
+101,berani,dia mikeh
+102,berarti,arti te
+103,berarti,artie
+104,berarti,berima
+105,berat,babehat
+106,berat,behat
+107,berat,ehat
+108,berbahaya,bahaya
+109,berbahaya,bahaya tutu
+110,berbahaya,bebahaya
+111,berdarah,are daha
+112,berdarah,badaha
+113,berdarah,bedaha
+114,berdoa,badoa
+115,berdoa,bedoa
+116,berdoa,laku doa
+117,berduka,beduka
+118,berduka,pehe angat
+119,berduka,pehe atei
+120,berguna,are guna
+121,berguna,baguna
+122,berguna,tege guna
+123,berhak,berhak
+124,berhak,puna hak
+125,berhak,tege hak
+126,berharap,baharap
+127,berharap,beharap
+128,berharap,kaharap
+129,berharap,manunggu
+130,beri,inenga
+131,beri,manenga
+132,beri,nenga
+133,berkomitmen, ba komitmen
+134,berkomitmen,bejanji
+135,berkomitmen,negei pander
+136,berlebihan,belabihan
+137,berlebihan,kalabihan
+138,berlebihan,lalau
+139,berlebihan,lalau are
+140,bermanfaat,are guna ah
+141,bermanfaat,baguna
+142,bermanfaat,beguna
+143,bersaing,balumba
+144,bersaing,basaing
+145,bersaing,batupa
+146,bersaing,besaing
+147,bersama,hayak
+148,bersama,sama sama
+149,bersedih,besedih
+150,bersedih,pehe angat
+151,bersedih,pehe atei
+152,bersembunyi,benyem tunis
+153,bersembunyi,mahindar
+154,bersembunyi,nyehukan
+155,bersorak,basurak
+156,bersorak,besorak
+157,bersorak,karas pander
+158,bersorak,tantiak
+159,bersorak,tariak
+160,besar,ha'i
+161,besar,hai
+162,biadab,bangsat
+163,biadab,dia baadat
+164,biadab,humung
+165,biadab,jatun adat
+166,biadab,jatunti hadat
+167,biadab,mameh
+168,biaya,ongkos
+169,bingung,bingung
+170,bingung,hengan
+171,bodoh,bungul
+172,bodoh,humung
+173,bodoh,kepaleng
+174,bodoh,mameh
+175,bohong,nenjaru
+176,bohong,tanjaru
+177,bom,bom
+178,buka,buka
+179,buka,mukei
+180,bunga,kambang
+181,bungkam,benyem
+182,bungkam,nampa benyem
+183,bunuh,munu
+184,bunuh,patei
+185,bunuh diri,munu arep
+186,bunuh diri,patei arep
+187,buruk,bureng
+188,buruk,burik
+189,buruk,papa
+190,buta,bebute
+191,buta,bute
+192,cantik,bahalap
+193,cantik,bengkeng
+194,cantik,bungas
+195,capai,dinun
+196,capai,sampai
+197,capai,supa
+198,cari,gau
+199,cari,manggau
+200,cedera,luka
+201,cedera,tundrung
+202,cegah,usaha supaya ela
+203,cemas,mikeh
+204,cepat,capat
+205,cerdas,pintar
+206,cinta,sinta
+207,cium,cium
+208,cium,mahewau
+209,cium,nyingut
+210,cocok,cocok
+211,cocok,pas
+212,cocok,pas akan
+213,cocok,sadang
+214,copet,copet
+215,copet,maling
+216,copet,penakau
+217,damai,damai
+218,dapat,dinun
+219,daya,daya
+220,diabaikan,anggap jatun
+221,diabaikan,nelua
+222,diam,benyem
+223,diam,benyem tunis
+224,diancam,ngancam awi
+225,dibersihkan,iparasih
+226,dibersihkan,irasih
+227,dicuri,duan maling
+228,dicuri,duan ulun
+229,dicuri,inakau
+230,dicuri,maling uluh
+231,dihukum,hukum awi
+232,dikalahkan,kalah awi
+233,dipercaya,dipercaya
+234,dipermalukan,impahawen
+235,dipermalukan,mapahawen
+236,dipertanyakan,jadi isek
+237,diprovokasi,adudomba awi
+238,disebut-sebut,inyewut-nyewut
+239,disebut-sebut,nyewut awi ulun
+240,ditakuti,imikeh
+241,ditakuti,impikeh
+242,ditangkap,inekap
+243,ditangkap,nekap awi
+244,diteror,ganggu
+245,diteror,ineror
+246,diteror,teror
+247,ditinggalkan,ilihi
+248,ditinggalkan,lihi
+249,ditinggalkan,malihi
+250,ditingkatkan,mandai tingkat
+251,dituduh,nuduh awi
+252,ditunda,inunda
+253,doa,doa
+254,doktrin,doktrin
+255,duka,kepehe atei
+256,dukung,dukung
+257,dukungan,dukungan
+258,efektif,epektip
+259,eksklusif,khusus
+260,empati,katawan angat
+261,empati,umba angat
+262,fitnah,pitnah
+263,fokus,fokus
+264,fokus,mikir ije te ih
+265,gagah,segah
+266,gagal,dia bahasil
+267,gagal,gagal
+268,gampang,mangat
+269,gampang,mudah
+270,gampang,mumuh
+271,ganggu,ganggu
+272,ganggu,ngeraen
+273,gaya,gaya
+274,gelap,kaput
+275,gentar,mikeh
+276,gertak,gartak
+277,gila,ewuy
+278,gila,mameh
+279,guncang,guncang
+280,guncangan,guncangan
+281,ha,hektar
+282,habis,lepah
+283,hal,hal
+284,hal,taloh
+285,hancur,hancur
+286,hancur,rusak
+287,hantu,kambe
+288,hantu,taluh
+289,harapan,harapan
+290,harapan,kahandak
+291,harga,rega
+292,harta,harta
+293,harta,kakayaan
+294,harta,panatau
+295,hasil,hasil
+296,hati,atei
+297,hati-hati,babuah
+298,hati-hati,bebuah
+299,hebat,harat
+300,hebat,tamam
+301,heboh,ridu
+302,heroik,pahlawan
+303,hidup,belum
+304,hidup,welum
+305,hilang,nihau
+306,hukum,hukum
+307,ikut,umba
+308,ilham,fikiran 
+309,iman,iman
+310,indah,bahalap
+311,indah,kahalap
+312,ingat,bingat
+313,ingat,mingat
+314,ingin,handak
+315,interogasi,interogasi
+316,interogasi,isek polisi
+317,isi,huang
+318,isi,isi
+319,istimewa,istimewa
+320,istimewa,sapisial
+321,jahat,jahat
+322,jamin,jamin
+323,jatuh,manjatu
+324,jatuh,menjatu
+325,jawab,jawab
+326,jawab,tumbah
+327,jaya,banjenta
+328,jelas,jelas
+329,jelas,tarang
+330,jelas,terang
+331,jelek,dia bahalap
+332,jelek,papa
+333,jenis,macam
+334,jual,jual
+335,kalah,kala
+336,kalah,kalah
+337,kalah,talau
+338,kalimat,kalimat
+339,kapal,cass
+340,kapal,jukung
+341,kapal,kapal 
+342,kapal,kelotok
+343,karya,hasil gawi
+344,kasihan,pasi
+345,kasihan,pasi ah
+346,kaya,are harta
+347,kaya,kaya
+348,kaya,tatau
+349,keadilan,keadilan
+350,keamanan,keamanan
+351,kebaikan,bahalap gawi
+352,kebaikan,kejenta
+353,kebencian,muar
+354,keberanian,bahanyi
+355,keberanian,kehanyi
+356,kebetulan,pas te
+357,kecewa,bajilek
+358,kecewa,pehe atei
+359,kehancuran,je hancur
+360,kehilangan,nihau
+361,kejahatan,jahat te
+362,kejam,lalau jahat
+363,keji,jahat
+364,kekayaan,harta
+365,kekayaan,panatau
+366,kekayaan,tatau
+367,kekerasan,gawi kasar
+368,kekuatan,kakuatan
+369,kelaparan,balau
+370,kelaparan,belauk miher
+371,keluar,balua
+372,keluar,belua
+373,kematian,pampatei
+374,kembali,haluli
+375,kena,buah
+376,kena,kana
+377,kenal,kasene
+378,kenal,kesene
+379,kenyamanan,kamangat
+380,kepentingan,kepentingan
+381,keras,batekang
+382,keras,karas
+383,keren,bahalap
+384,keren,tamam
+385,kerugian,je rugi te
+386,kerusakan,je rusak te
+387,kesalahan,kasala
+388,kesan,kesan
+389,kesempatan,kesempatan
+390,kesepian,benyem tunis 
+391,kesepian,sepi angat
+392,kesulitan,je bahali
+393,ketakutan,mikeh
+394,ketat,bahali
+395,ketat,ketat
+396,ketegangan,ketegangan
+397,kompak,kompak
+398,konflik,kalahian
+399,konflik,konflik
+400,konspirasi,konspirasi
+401,korban,korban
+402,korban jiwa,korban matei
+403,kosong,jatun isi
+404,kosong,kosong
+405,kotor,diak barasih
+406,kotor,kotor 
+407,kotor,papa
+408,kotor,rigat
+409,kuat,barigas
+410,kuat,kuat
+411,kuat,mampu
+412,kuat,sanggup
+413,kurang,kurang
+414,kutuk,sumpahan
+415,kutukan,sumpahan
+416,langgar,nabrak
+417,larang,larang
+418,larang,ngehana
+419,larangan,ela
+420,larangan,larangan
+421,lawan,lawan
+422,lawan,musuh
+423,layak,layak
+424,layak,pas
+425,layak,sadang
+426,lebih,labih
+427,lebih,lebih
+428,lebih baik,labih bahalap
+429,lebih baik,lbh bahalap
+430,lembut,belemu
+431,lembut,halus
+432,lengkap,langkap
+433,lenyap,nihau
+434,lewat,haluli
+435,lewat,mehalau
+436,lihat,mite
+437,lihat,payah
+438,lmao,nampa tatawe
+439,luar biasa,luar biasa
+440,lucu,kisuh
+441,lucu,lucu
+442,luka,batan
+443,luka,luka
+444,luka,tundrung
+445,lupa,dia mingat
+446,lupa,kelapean
+447,maaf,maaf
+448,mahal,larang
+449,mampu,mampu
+450,mampu,tau
+451,mampu,ulih
+452,marah,basingi
+453,marah,besingi
+454,masalah,masalah
+455,mati,matei
+456,mayat,bangkai
+457,mayat,hantu
+458,melakukan,manggawi
+459,melanggar,melanggar
+460,melemahkan,malemah
+461,melindungi,malindung
+462,melumpuhkan,malumpuh
+463,memastikan,mamasti
+464,membahayakan,nampa bahaya
+465,membantu,manduhup
+466,membantu,menduhup
+467,membatalkan,balang ah
+468,membatalkan,membalang
+469,membenci,muar
+470,membuka,mambuka
+471,membuka,memukei
+472,membunuh,memunu
+473,membunuh,nampatei
+474,memerangi,mamerangi
+475,mempertanyakan,misek
+476,memuji,muji
+477,memuji,nawat
+478,menahan,nahan
+479,menanti,nunggu
+480,menarik,menarik
+481,mencurigakan,nampa curiga
+482,mendapatkan,mandinu
+483,menderita,manderita
+484,mendoktrin,doktrin
+485,mendorong,mandorong
+486,mendorong,manunjul
+487,mendukung,mandukung
+488,mendung,are awan
+489,menembak,nembak
+490,menerima,narima
+491,mengakui,ngaku
+492,mengamankan,ngaman
+493,mengamankan,nyimpan
+494,mengeluarkan,mampalua
+495,mengembalikan,mamuli
+496,mengembalikan,ngampuli
+497,mengerikan,mamikeh
+498,mengerikan,ngeri
+499,menghancurkan,mahancur
+500,menghargai,menghargai
+501,menghindari,mahindar
+502,mengusir,ngusir
+503,mengutuk,ngutuk
+504,meninggal,malihi
+505,meninggal,melihi
+506,meninggal,nihau
+507,meningkatkan,mampagantung
+508,meningkatkan,mampahai
+509,menolak,manolak
+510,menunggu,manunggu
+511,menurunkan,mamuhun
+512,menyadari,nyadar
+513,menyalahkan,manyalahkan
+514,menyambut,nyambut
+515,menyambut,nyammut
+516,menyebabkan,nampa jadi
+517,menyerang,nyarang
+518,menyeret,batak
+519,menyeret,manarik
+520,menyesatkan,manyesat
+521,menyita,nyita
+522,meragukan,ragu
+523,meruntuhkan,maruntuh
+524,meruntuhkan,maruntun
+525,minta,belaku
+526,minta,maaf
+527,minta maaf,laku maaf
+528,miskin,miskin
+529,miskin,papa
+530,miskin,uyuh pambelum
+531,moga,muga
+532,muda,tabela
+533,muda,tebela
+534,mudah,mangat
+535,mudah,mumuh
+536,muka,baum
+537,muka,baun
+538,muka,nau
+539,mulia,mulia
+540,mundur,mundur
+541,murah,murah
+542,murka,basingi
+543,musuh,lawah
+544,musuh,musuh
+545,nanti,kareh
+546,nekat,nekat
+547,nekat,silang
+548,neraka,neraka
+549,ngeri,kikeh
+550,ngeri,ngeri
+551,ngerti,harati
+552,ngerti,paham
+553,nilai,nilai
+554,oke,oke 
+555,oke,yuh ih
+556,oleh,awi
+557,oleh,tagal
+558,orang bodoh,uluh humung
+559,orang bodoh,uluh mameh
+560,pada,akan
+561,pada,pas te
+562,padat,padat
+563,pahlawan,pahlawan
+564,palsu,palsu
+565,panas,balasut
+566,panas,belasut
+567,panik,bingung mikir
+568,panik,kenampi mikir
+569,panjang,panjang
+570,pantat,burit
+571,pantat,para
+572,parodi,maniru
+573,pasti,pasti
+574,pecah,pacah
+575,pecah,pusit
+576,pecah,rakai
+577,pecah,ramuk
+578,peduli,nentuani
+579,peduli,peduli
+580,pelaku,je manggawi
+581,pelaku,je mawi
+582,pelaku kejahatan,je mawi kejahatan
+583,pembela,je mambela
+584,pemberani,uluh bahanyi
+585,pemberontakan,pemberontakan
+586,penangkapan,nekap
+587,penangkapan,penekapan
+588,pendukung,pendukung
+589,penembakan,penembakab
+590,pengecut,pengecut
+591,pengunjung,ulun je dumah
+592,penjara,penjara
+593,penjara,sel
+594,penting,penting
+595,penuh,hibak
+596,penuh,kuntep
+597,penuh,penu
+598,penuh,penuh
+599,penularan,jangkit
+600,penularan,mewabah
+601,penyelamat,panyalamat
+602,penyelidikan,pameriksaan
+603,perampok,parampok
+604,perang,perang
+605,perasaan,angat atei
+606,percaya,parcaya
+607,perdamaian,perdamaian
+608,peringatan,peringatan
+609,perjuangan,perjuangan
+610,pertanyaan,isekan
+611,pertempuran,paperagan
+612,pikir,pikir
+613,pintar,pintar
+614,populer,are je kasene
+615,populer,terkenal
+616,positif,je bahalap
+617,positif,positif
+618,potong,netek
+619,puja,puja
+620,puji,puji 
+621,puji,tawat
+622,pukul,kapek
+623,pukul,mangkung
+624,pukul,mukul
+625,pukul,mupuk
+626,pulih,pulih
+627,pulih,sembuh
+628,pura,papura
+629,pura,pura
+630,pusing,hundi
+631,pusing,pehe kuluk
+632,racun,pulih
+633,racun,rasun
+634,rahmat,rahmat
+635,rampas,duan paksa
+636,ras,kelompok
+637,ras,ras
+638,raya,hai
+639,rela,rela
+640,rindu,mengganang
+641,rindu,taharu
+642,runtuh,runtuh
+643,runtuh,runtun
+644,sadar,sadar
+645,saham,sahat
+646,sakit,badarem
+647,sakit,haban
+648,sakit,pehe
+649,salah,sala
+650,salam,batabe
+651,salam,inabe
+652,salam,salam
+653,salam,tabe
+654,salut,salut
+655,sama,hayak
+656,sama,kilau
+657,sama,sama 
+658,sama,sama ih
+659,sama,sama kilau
+660,samping,sila
+661,samping,silan
+662,sangat, mangat
+663,sangat,nyangit
+664,sangat,tutu
+665,santai,santai
+666,sapa,mander
+667,saran,masukan
+668,saran,saran
+669,sayang,sayang
+670,sebab,awi
+671,sebab,karana
+672,sebut,sewut
+673,sedih,pehe atei
+674,segan,dia mangat
+675,segan,segan
+676,selamat,salamat
+677,selesai,jadi
+678,selesai,salesai
+679,selesai,tuntung
+680,semangat,samangat
+681,sembunyi,nyehukan
+682,sembunyi,sembunyi
+683,semoga,keleh
+684,semoga,mudahan
+685,semoga,semoga
+686,sempat,sampat
+687,sempat,sampet
+688,senang,kahanjak
+689,senang,sanang
+690,sendiri,kabuat
+691,sendiri,kebuat
+692,senjata,senjata
+693,senjata,undas
+694,senyum,karihing
+695,senyum,senyum
+696,seperti,kilau
+697,sepi,benyem tunis
+698,sepi,suni
+699,seragam,saragam
+700,seram,mamikeh
+701,serang,nyarang
+702,serang,sarang
+703,serang,serbu
+704,serangan,serangan
+705,serikat,kumpulan
+706,siap,basadia
+707,siap,siap
+708,sigap,sigap
+709,silahkan,ayo bei
+710,silahkan,palus wei
+711,silahkan,silakan
+712,simpati,simpati
+713,simpati,uma mangkeme
+714,simpatik,bahalap tingkah
+715,simpatik,simpatik
+716,solidaritas,sama angat
+717,solidaritas,sapanggungan
+718,solidaritas,solidaritas
+719,sopan,sopan
+720,stres,pehe kuluk
+721,stres,stress
+722,striker,pemain baun
+723,striker,striker
+724,suap,nyuap
+725,suap,sogok
+726,suap,suap
+727,suka,katuju
+728,suka,rajin
+729,sulit,bahali
+730,super,super
+731,super,tutu
+732,surga,langit kauju
+733,surga,lewu tatau
+734,surga,surga
+735,susah,bahali
+736,tabah,sanggup manahan
+737,tabah,tabah
+738,tabah,tegar
+739,tabrak,hebu
+740,tabrak,nabrak
+741,tabrak,tabrak
+742,tahan,sanggup
+743,tahan,tahan
+744,tahanan,tahanan
+745,tak kalah,dia kalah
+746,takut,mikeh
+747,tanggung jawab,tanggung jawab
+748,tangis,tangis
+749,tangkap,nekap
+750,tantangan,tantangan
+751,tanya,isek
+752,tanya,misek
+753,tegang,tegang
+754,tegas,tegas
+755,tembak,tembak
+756,tempur,benyem
+757,tempur,perang
+758,tenang,benyem
+759,tenang,tenang
+760,tenggelam,halelep
+761,tenggelam,lelep
+762,tenggelam,tenggelem
+763,tentang,niba
+764,tentang,sakitar
+765,tentang,tentang
+766,tentu,tentu
+767,teramat,lalau
+768,teramat,tutu
+769,terbesar,paling hai
+770,terbunuh,matei
+771,terganggu,taganggu
+772,tergantung,tergantung
+773,teriak,keriak
+774,teriak,nariak
+775,teriakan,pander karas
+776,teriakan,tariakan
+777,terima,nerima
+778,terima,tarime
+779,terima kasih,tarime kasih
+780,terima kasih,tarime kasis
+781,terima kasih,terima kasih
+782,terimakasih,tarime kasih
+783,terimakasih,tarime kasis
+784,terimakasih,terima kasih
+785,terkejut,emah
+786,terkejut,takajut
+787,terkejut,tekejet
+788,terkena,kana
+789,terluka,batan
+790,terluka,luka
+791,teror,tanteluh
+792,terpengaruh,tapangaruh
+793,tersangka,je nyangka awi uluh
+794,tersangka,tersangka
+795,tersinggung,tasinggung
+796,tertarik,manarik
+797,tertentu,tertentu
+798,tertinggal,lului
+799,tertinggal,tatinggal
+800,tidak,dia
+801,tidak aman,bahaya
+802,tidak aman,dia aman
+803,tinggal,melai
+804,tingkat,tingkat
+805,tragedi,kisah tragis
+806,trauma,trauma
+807,tubuh,biti
+808,tuduhan,tuduhan
+809,tukang jualan,pajual
+810,tumpas,basmi
+811,tumpas,palepah
+812,tunda,balang
+813,tunda,tunda
+814,tunggu,nunggu
+815,turun,muhun
+816,turun,nutup
+817,tutup,tutup
+818,uang,duit
+819,untung,untung
+820,utuh,tatap
+821,utuh,utuh
+822,wajib,harus
+823,wajib,wajib
+824,waspada,basiap
+825,waspada,waspada
+826,wow,bah
+827,wow,hau
+828,wow,wau
+829,ya,iyoh
+830,ya,iyuh
+831,ya,yuh
+832,yakin,yakin
