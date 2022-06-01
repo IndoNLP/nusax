@@ -2,7 +2,7 @@
 
 NusaX is a high-quality  multilingual parallel corpus that covers 12 languages, Indonesian, English, and 10 Indonesian local languages, namely Acehnese, Balinese, Banjarese, Buginese, Madurese, Minangkabau, Javanese, Ngaju, Sundanese, and Toba Batak.
 
-NusaX is created by translating exsiting sentiment analysis dataset into local languages.
+NusaX is created by translating existing sentiment analysis dataset into local languages.
 Our translations are written and verified by local native speakers. Therefore, NusaX can be broken down into 2 separate tasks:
 
 - [NusaX-MT: Machine Translation task](https://github.com/IndoNLP/nusax/tree/main/datasets/mt)
