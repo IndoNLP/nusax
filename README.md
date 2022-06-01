@@ -17,7 +17,7 @@ If you use our dataset or any code from this repository, please cite the followi
 ```
 @misc{winata2022nusax,
       title={NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Languages}, 
-      author={Genta Indra Winata and Alham Fikri Aji and Samuel Cahyawijaya and Rahmad Mahendra and Fajri Koto and Ade Romadhony and Kemal Kurniawan and David Moeljadi and Radityo Eko Prasojo and Pascale Fung and Timothy Baldwin and Jey Han Lau and Rico Sennrich and Sebastian Ruder},
+      author={Winata, Genta Indra and Aji, Alham Fikri and Cahyawijaya, Samuel and Mahendra, Rahmad and Koto, Fajri and Romadhony, Ade and Kurniawan, Kemal and Moeljadi, David and Prasojo, Radityo Eko and Fung, Pascale and Baldwin, Timothy and Lau, Jey Han and Sennrich, Rico and Ruder, Sebastian},
       year={2022},
       eprint={2205.15960},
       archivePrefix={arXiv},
