@@ -5,10 +5,10 @@ NusaX is a high-quality  multilingual parallel corpus that covers 12 languages, 
 NusaX is created by translating exsiting sentiment analysis dataset into local languages.
 Our translations are written and verified by local native speakers. Therefore, NusaX can be broken down into 2 separate tasks:
 
-- [NusaX-MT: Machine translation task](https://github.com/IndoNLP/nusax/tree/main/datasets/mt)
+- [NusaX-MT: Machine Translation task](https://github.com/IndoNLP/nusax/tree/main/datasets/mt)
 - [NusaX-Senti: Sentiment Analysis task](https://github.com/IndoNLP/nusax/tree/main/datasets/sentiment)
 
-Additionally, we also release a [NusaX-Lexicon](https://github.com/IndoNLP/nusax/tree/main/datasets/lexicon), which consists of parallel, sentiment lexicon of 10 Indonesian local languages.
+Additionally, we also release the [NusaX-Lexicon](https://github.com/IndoNLP/nusax/tree/main/datasets/lexicon), which consists of parallel, sentiment lexicon of 10 Indonesian local languages.
 
 ## Research Paper
 You can find the details in [our paper](https://arxiv.org/pdf/2205.15960.pdf)
