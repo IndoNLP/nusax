@@ -11,17 +11,33 @@ Our translations are written and verified by local native speakers. Therefore, N
 Additionally, we also release the [NusaX-Lexicon](https://github.com/IndoNLP/nusax/tree/main/datasets/lexicon), which consists of parallel, sentiment lexicon of 10 Indonesian local languages.
 
 ## Research Paper
-You can find the details in [our paper](https://arxiv.org/pdf/2205.15960.pdf)
+You can find the details in [our paper](https://aclanthology.org/2023.eacl-main.57.pdf). The paper was awarded an **Outstanding Paper** at EACL 2023.
 
 If you use our dataset or any code from this repository, please cite the following:
 ```
-@misc{winata2022nusax,
-      title={NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Languages}, 
-      author={Winata, Genta Indra and Aji, Alham Fikri and Cahyawijaya, Samuel and Mahendra, Rahmad and Koto, Fajri and Romadhony, Ade and Kurniawan, Kemal and Moeljadi, David and Prasojo, Radityo Eko and Fung, Pascale and Baldwin, Timothy and Lau, Jey Han and Sennrich, Rico and Ruder, Sebastian},
-      year={2022},
-      eprint={2205.15960},
-      archivePrefix={arXiv},
-      primaryClass={cs.CL}
+@inproceedings{winata-etal-2023-nusax,
+    title = "NusaX: Multilingual Parallel Sentiment Dataset for 10 Indonesian Local Languages",
+    author = "Winata, Genta Indra  and
+      Aji, Alham Fikri  and
+      Cahyawijaya, Samuel  and
+      Mahendra, Rahmad  and
+      Koto, Fajri  and
+      Romadhony, Ade  and
+      Kurniawan, Kemal  and
+      Moeljadi, David  and
+      Prasojo, Radityo Eko  and
+      Fung, Pascale  and
+      Baldwin, Timothy  and
+      Lau, Jey Han  and
+      Sennrich, Rico  and
+      Ruder, Sebastian",
+    booktitle = "Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics",
+    month = may,
+    year = "2023",
+    address = "Dubrovnik, Croatia",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2023.eacl-main.57",
+    pages = "815--834"
 }
 ```
 
